@@ -1,5 +1,5 @@
 name: multiple_images_picker
-description: Pick multiple images on iOS and Android.
+description: Flutter package that allows you to pick multiple images from your photo gallery on iOS and Android. It also allows you to access the camera and take photos within the application.
 version: 1.0.1
 homepage: https://github.com/loic-hamdi/multiple_images_picker
 
